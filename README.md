@@ -1,2 +1,2 @@
 # second-chance
-App para ONGS buscaram contribuições financeiras.
+App para ONGS buscarem contribuições financeiras.
